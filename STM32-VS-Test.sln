@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "STM32-VS-Test", "STM32-VS-Test.vcxproj", "{4882D4A7-4728-4DB0-B95D-BD2C9C6D5F21}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM = Release|ARM
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4882D4A7-4728-4DB0-B95D-BD2C9C6D5F21}.Debug|ARM.ActiveCfg = Release|ARM
+		{4882D4A7-4728-4DB0-B95D-BD2C9C6D5F21}.Debug|ARM.Build.0 = Release|ARM
+		{4882D4A7-4728-4DB0-B95D-BD2C9C6D5F21}.Debug|x64.ActiveCfg = Debug|ARM
+		{4882D4A7-4728-4DB0-B95D-BD2C9C6D5F21}.Debug|x86.ActiveCfg = Debug|ARM
+		{4882D4A7-4728-4DB0-B95D-BD2C9C6D5F21}.Release|ARM.ActiveCfg = Release|ARM
+		{4882D4A7-4728-4DB0-B95D-BD2C9C6D5F21}.Release|ARM.Build.0 = Release|ARM
+		{4882D4A7-4728-4DB0-B95D-BD2C9C6D5F21}.Release|x64.ActiveCfg = Release|ARM
+		{4882D4A7-4728-4DB0-B95D-BD2C9C6D5F21}.Release|x86.ActiveCfg = Release|ARM
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {86F8BF8B-E042-4E88-ABD2-49679FCE2FB7}
+	EndGlobalSection
+EndGlobal
